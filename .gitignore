@@ -1,5 +1,5 @@
-.ipynb_checkpoints/
-study_ai_ml_google
-DNN_code
-data/
-common/
+.ipynb_checkpoints
+__pycache__
+reference_src
+data
+common
